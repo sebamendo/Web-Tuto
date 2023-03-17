@@ -84,7 +84,7 @@ header a:hover{
         rgba(0, 0, 0, 0.5),
         rgba(0, 0, 0, 0.5)
     )
-    ,url("media/hero.jpg");
+    ,url("../media/hero.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -135,7 +135,7 @@ header a:hover{
         rgba(0, 0, 0, 0.5),
         rgba(0, 0, 0, 0.5)
     )
-    ,url("media/front-end.jpg");
+    ,url("../media/front-end.jpg");
 }
 .carta:nth-child(2){
     background-image: linear-gradient(
@@ -143,7 +143,7 @@ header a:hover{
         rgba(0, 0, 0, 0.5),
         rgba(0, 0, 0, 0.5)
     )
-    ,url("media/full-stack.jpg");       
+    ,url("../media/full-stack.jpg");       
 }
 .carta:last-child{
     background-image: linear-gradient(
@@ -151,7 +151,7 @@ header a:hover{
         rgba(0, 0, 0, 0.5),
         rgba(0, 0, 0, 0.5)
     )
-    ,url("media/python.jpg");    
+    ,url("../media/python.jpg");    
 }   
 
 #caracteristicas .container{
@@ -239,7 +239,7 @@ footer .container{
         rgba(0, 0, 0, 0.5),
         rgba(0, 0, 0, 0.5)
     )
-    ,url("media/somos-proya.jpg");
+    ,url("../media/somos-proya.jpg");
     background-size: cover;
     background-position: center center;
     height: 500px;
